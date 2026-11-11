@@ -1,0 +1,67 @@
+================================================================================
+PETUNJUK CEPAT PEMINDAHAN & INSTALASI APLIKASI PERPUSTAKAAN KE KOMPUTER LAIN
+Sistem Informasi Manajemen Perpustakaan Digital (LARAGON & XAMPP)
+================================================================================
+
+PENGEMBANG & PEMBUAT APLIKASI:
+Nama    : Heri Susanto
+Email   : itemsusanto@gmail.com
+No. HP  : 081362733320 (WhatsApp)
+Institusi: SMKN 5 Telkom Banda Aceh
+
+Untuk memindahkan atau memasang aplikasi ini ke laptop/komputer lain, Anda dapat
+memilih salah satu dari 2 opsi lingkungan web server di bawah:
+
+--------------------------------------------------------------------------------
+OPSI A: MENGGUNAKAN LARAGON (SANGAT DIREKOMENDASIKAN & CEPAT)
+--------------------------------------------------------------------------------
+1. Unduh Laragon Full di: https://laragon.org/download/ dan install di C:\laragon.
+2. Salin folder perpustakaan ke dalam folder:
+   C:\laragon\www\perpustakaan
+3. Buka Laragon, lalu klik satu tombol: "Start All".
+4. Untuk membuat database & isi data secara instan:
+   - Buka folder: C:\laragon\www\perpustakaan\backups\
+   - Klik 2x file: KLIK_UNTUK_PULIHKAN.bat
+   - Ketik Y lalu tekan Enter. Database selesai dipulihkan 100% dalam 2 detik!
+   (Atau via HeidiSQL: Klik tombol "Database" di Laragon > buat database 
+   "nafisah_nasyirah_perpustakaan" > import file database/nafisah_nasyirah_perpustakaan.sql).
+5. Buka browser: http://localhost/perpustakaan/ atau http://perpustakaan.test
+
+--------------------------------------------------------------------------------
+OPSI B: MENGGUNAKAN XAMPP (METODE TRADISIONAL)
+--------------------------------------------------------------------------------
+1. Unduh XAMPP di: https://www.apachefriends.org/ dan install di C:\xampp.
+2. Salin folder perpustakaan ke dalam folder:
+   C:\xampp\htdocs\perpustakaan
+3. Buka XAMPP Control Panel, klik "Start" pada Apache dan "Start" pada MySQL.
+4. Buka browser: http://localhost/phpmyadmin/
+   - Buat database baru bernama: nafisah_nasyirah_perpustakaan
+   - Klik tab "Import", pilih berkas:
+     C:\xampp\htdocs\perpustakaan\database\nafisah_nasyirah_perpustakaan.sql
+   - Klik tombol "Import / Kirim" di bawah.
+5. Buka browser: http://localhost/perpustakaan/
+
+--------------------------------------------------------------------------------
+AKSES DARI HP / LAPTOP LAIN VIA WI-FI SEKOLAH (LAN):
+--------------------------------------------------------------------------------
+1. Hubungkan HP / laptop ke Wi-Fi yang sama dengan komputer server.
+2. Cek nomor IPv4 server via cmd (ketik perintah: ipconfig). Misal IP: 192.168.1.50
+3. Buka browser di HP/laptop siswa: http://192.168.1.50/perpustakaan/
+
+--------------------------------------------------------------------------------
+SKRIP PEMULIHAN & CADANGAN 1-KLIK (LOKASI: backups\ & C:\Backup_Perpustakaan\)
+--------------------------------------------------------------------------------
+1. KLIK_UNTUK_PULIHKAN.bat : Memulihkan database 100% otomatis (Laragon/XAMPP).
+2. KLIK_UNTUK_BACKUP.bat   : Mencadangkan database kapanpun tanpa buka browser.
+3. PERBAIKI_MYSQL_CRASH.bat: Memperbaiki MySQL jika XAMPP shutdown unexpectedly.
+
+AKUN LOGIN DEFAULT:
+- Administrator : Username: admin     | Password: admin123
+- Siswa / Anggota: Username: 1020001  | Password: 1020001 (atau 123456)
+
+DOKUMEN PANDUAN LENGKAP:
+1. PANDUAN_INSTALASI_DAN_PINDAH_KOMPUTER.md (Panduan Laragon & XAMPP)
+2. Panduan_Instalasi_dan_Migrasi_Komputer_Heri_Susanto.pdf (Format PDF Cetak)
+3. PANDUAN_MIGRASI_DAN_PEMULIHAN_DATA.md
+4. Buku_Panduan_Penggunaan_Perpustakaan_Heri_Susanto.pdf
+================================================================================

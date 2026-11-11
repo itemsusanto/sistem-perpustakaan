@@ -1,0 +1,53 @@
+================================================================================
+                    SURAT KETENTUAN LISENSI & HAK CIPTA APLIKASI
+================================================================================
+
+Nama Perangkat Lunak : Sistem Informasi & Manajemen Perpustakaan Digital
+Pengembang Asli      : HERI SUSANTO
+Pendidikan           : Lulusan Teknik Elektro Bidang Teknik Informatika & Komputer (angkatan 2006 & lulus Tahun 2011), Universitas Syiah Kuala Banda Aceh
+Profesi / Pekerjaan  : Guru Rekayasa Perangkat Lunak (RPL) di SMKN 5 Telkom Banda Aceh
+Kontak / WhatsApp    : 081362733320 (https://wa.me/6281362733320)
+Email                : itemsusanto@gmail.com
+Status Lisensi       : GRATIS (Free for Educational & School Use)
+
+--------------------------------------------------------------------------------
+1. STATUS PENGGUNAAN GRATIS
+--------------------------------------------------------------------------------
+Aplikasi ini dibagikan secara cuma-cuma (GRATIS) untuk membantu sekolah, 
+madrasah, pesantren, komunitas, dan lembaga pendidikan dalam mengelola 
+perpustakaan digital secara mandiri berbasis jaringan intranet/lokal (LAN/Wi-Fi).
+
+--------------------------------------------------------------------------------
+2. LARANGAN KERAS DIPERJUALBELIKAN (COMMERCIAL PROHIBITION)
+--------------------------------------------------------------------------------
+Aplikasi ini DILARANG KERAS DIPERJUALBELIKAN, disewakan, atau dikomersialisasikan 
+dalam bentuk apapun oleh pihak manapun. Seluruh fitur diberikan penuh tanpa 
+biaya lisensi perangkat lunak.
+
+--------------------------------------------------------------------------------
+3. KETENTUAN HAK CIPTA & ATRIBUSI PENGEMBANG (MORAL RIGHTS)
+--------------------------------------------------------------------------------
+1. Nama pengembang asli: "HERI SUSANTO" adalah hak cipta mutlak yang dilindungi
+   oleh undang-undang hak cipta dan konvensi etika perangkat lunak.
+2. Pihak penerima/pengguna DILARANG KERAS:
+   - Menghapus, menyembunyikan, atau memanipulasi teks atribusi pengembang pada 
+     bagian footer website publik maupun panel admin/dashboard.
+   - Mengganti atau mengklaim aplikasi ini sebagai ciptaan atau karya milik 
+     pihak lain (Plagiarisme / Copyright Infringement).
+3. Pengguna sekolah BERHAK PENUH untuk:
+   - Menyesuaikan nama sekolah, logo, kop surat, data buku, anggota, dan 
+     seluruh konten operasional perpustakaan sesuai kebutuhan lembaga masing-masing.
+
+--------------------------------------------------------------------------------
+4. SANKSI PELANGGARAN
+--------------------------------------------------------------------------------
+Setiap tindakan menghapus atribusi hak cipta, mengklaim kepemilikan sepihak, 
+atau memperjualbelikan aplikasi ini tanpa izin tertulis dari Heri Susanto 
+merupakan pelanggaran hukum hak cipta yang dapat dituntut sesuai peraturan 
+perundang-undangan yang berlaku.
+
+Banda Aceh, 2026
+Tertanda,
+HERI SUSANTO
+(Pengembang Asli Sistem Perpustakaan Digital)
+WhatsApp: 081362733320
