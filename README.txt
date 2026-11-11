@@ -1,4 +1,4 @@
-SISTEM INFORMASI PERPUSTAKAAN SMKN 5 TELKOM - V2
+SISTEM INFORMASI PERPUSTAKAAN SEKOLAH/PESANTREN V2
 
 1. Ekstrak folder perpustakaan_smkn5_v2 ke C:\laragon\www\
 2. Start All di Laragon.
