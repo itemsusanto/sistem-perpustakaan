@@ -29,3 +29,8 @@ LAN
 Cari IPv4 server dengan ipconfig, misalnya 192.168.1.10. Dari perangkat lain di Wi-Fi buka:
 http://192.168.1.10/perpustakaan_smkn5_v2/
 Jika tidak bisa, izinkan Apache/httpd pada Windows Firewall jaringan Private.
+tampilan https://github.com/itemsusanto/sistem-perpustakaan/blob/main/Screenshot%202026-11-11%20083918.png
+https://github.com/itemsusanto/sistem-perpustakaan/blob/main/Screenshot%202026-11-11%20083458.png
+https://github.com/itemsusanto/sistem-perpustakaan/blob/main/Screenshot%202026-11-11%20083913.png
+
+
